@@ -12,11 +12,11 @@ Excel | Python | SQL | Tableau | Google Sheets | Git | Financial Modeling
 <br>
 <H2> 📜 Certifications & Achievements </H2>
 
-- [✔️ Fundamentals of Insurance – IBABC](https://imgur.com/DM2PF4d.jpg)  
-  *Level 1 Insurance Certificate* (Valid through **05/2025**)  
-  *License Type: General Level 1*
+- [✔️ Fundamentals of Insurance – IBABC](file:///Users/abhinavwadhwa/Desktop/certificates/Fundamentals%20of%20Insurance%20Certificate.pdf)  
+  *Completed: 05/2025*
 
-- ⏳ Investment Funds in Canada – Canadian Securities Institute *(In Progress)*  
+- ⏳ Investment Funds in Canada – Canadian Securities Institute
+  *(In Progress)*  
   
 
 - [🏦 JPMorgan Chase Investment Banking Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_rEg3zwK3LcMxMbwFr_1751407890292_completion_certificate.pdf)  
