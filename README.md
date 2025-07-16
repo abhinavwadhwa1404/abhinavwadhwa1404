@@ -14,5 +14,7 @@
 [instagram]: https://www.instagram.com/abhinavvwadhwa/
 [LinkedIn]: https://www.linkedin.com/in/abhinavvwadhwa/
 
-[instagram]: https://www.instagram.com/abhinavvwadhwa/
-[LinkedIn]: https://www.linkedin.com/in/abhinavvwadhwa/
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="AbhinavWadhwa | LinkedIn" width="22px" src="https://imgur.com/xZHrdjd.jpg" />][linkedin]
+[<img align="left" alt="AbhinavWadhwa | Instagram" width="22px" src="https://imgur.com/DvIDenb.jpg" />][instagram]
