@@ -22,6 +22,7 @@ Excel | Python | SQL | Tableau | Google Sheets | Git | Financial Modeling
 - [🏦 JPMorgan Chase Investment Banking Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_rEg3zwK3LcMxMbwFr_1751407890292_completion_certificate.pdf)  
   *Completed: 07/2025*
 
+<br> 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AbhinavWadhwa | LinkedIn" width="22px" src="https://imgur.com/xZHrdjd.jpg" />][linkedin]
