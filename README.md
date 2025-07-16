@@ -14,3 +14,5 @@
 [instagram]: https://www.instagram.com/abhinavvwadhwa/
 [LinkedIn]: https://www.linkedin.com/in/abhinavvwadhwa/
 
+[instagram]: https://www.instagram.com/abhinavvwadhwa/
+[LinkedIn]: https://www.linkedin.com/in/abhinavvwadhwa/
