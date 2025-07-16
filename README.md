@@ -4,7 +4,6 @@
 
   - [Retirement Planning Dashboard](https://github.com/abhinavwadhwa1404/Activeprojects)
 
-<br>
 <H2> 🧰 Tools & Technologies </H2>
 
 Excel | Python | SQL | Tableau | Google Sheets | Git | Financial Modeling
@@ -16,8 +15,8 @@ Excel | Python | SQL | Tableau | Google Sheets | Git | Financial Modeling
   *Level 1 Insurance Certificate* (Valid through **05/2025**)  
   *License Type: General Level 1*
 
-- [⏳ Investment Funds in Canada – Canadian Securities Institute *(In Progress)*  
-  *Student ID: 1201870*
+- ⏳ Investment Funds in Canada – Canadian Securities Institute *(In Progress)*  
+  
 
 - [🏦 JPMorgan Chase Investment Banking Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_rEg3zwK3LcMxMbwFr_1751407890292_completion_certificate.pdf)  
   *Completed: 07/2025*
