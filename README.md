@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 My Projects:</h2>
 <h3> Excel Projects </h3>
-
+  - [Stock Portfolio Scoring & Analysis] (https://github.com/abhinavwadhwa1404/Stock_screening/blob/main/README.md)
+  <br>
   - [Retirement Planning Dashboard](https://github.com/abhinavwadhwa1404/Activeprojects)
 <br>
 
