@@ -14,7 +14,7 @@
 
 <H2> 🧰 Tools & Technologies </H2>
 
-Excel | Python | SQL | Tableau | Google Sheets | Git | Financial Modeling
+Excel | Python | SQL | Tableau | Power BI | Google Sheets | Git | Financial Modeling 
 
 <br>
 <H2> 📜 Certifications & Achievements </H2>
