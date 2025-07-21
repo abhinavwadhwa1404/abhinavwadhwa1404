@@ -5,6 +5,8 @@
 - <a href="https://github.com/abhinavwadhwa1404/Stock_screening"> Stock Portfolio Scoring & Analysis </a> 
 <br> 
 - <a href="https://github.com/abhinavwadhwa1404/Activeprojects"> Retirement Planning Dashboard </a>
+<br> 
+- <a href="https://github.com/abhinavwadhwa1404/Financial_forecasting_model"> Financial Forecasting Model </a>
 
 
 
@@ -17,15 +19,12 @@ Excel | Python | SQL | Tableau | Google Sheets | Git | Financial Modeling
 <br>
 <H2> 📜 Certifications & Achievements </H2>
 
-- [✔️ Fundamentals of Insurance – IBABC](https://imgur.com/DM2PF4d)  
-  *Completed: 05/2025*
+- [ Fundamentals of Insurance – IBABC](https://imgur.com/DM2PF4d)  
 
-- ⏳ Investment Funds in Canada – Canadian Securities Institute
-  *(In Progress)*  
+-  Investment Funds in Canada – Canadian Securities Institute 
   
 
-- [🏦 JPMorgan Chase Investment Banking Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_rEg3zwK3LcMxMbwFr_1751407890292_completion_certificate.pdf)  
-  *Completed: 07/2025*
+- [ JPMorgan Chase Investment Banking Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_rEg3zwK3LcMxMbwFr_1751407890292_completion_certificate.pdf)  
 
 <br> 
 <h2> 🤳 Connect with me:</h2>
