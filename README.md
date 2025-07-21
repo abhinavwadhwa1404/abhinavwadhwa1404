@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abhinav! <br> <a href="https://www.linkedin.com/in/abhinavvwadhwa/">Finance Professional</a>
+<div style="background-color: lightgrey; padding: 10px;"> <h1>Hi, I'm Abhinav! <br> <a href="https://www.linkedin.com/in/abhinavvwadhwa/">Finance Professional</a>
 
 <h2>👨‍💻 My Projects:</h2>
 <h3> Excel Projects </h3>
