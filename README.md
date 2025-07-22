@@ -5,15 +5,16 @@
 <h2>👨‍💻 My Projects:</h2>
 <h3> Excel Projects </h3>
 - <a href="https://github.com/abhinavwadhwa1404/Stock_screening">   Stock Portfolio Scoring & Analysis </a> Built an Excel-based stock screening system for 120+ stocks using regression metrics (R², EPS trends).
-<br> 
+<br>
 - <a href="https://github.com/abhinavwadhwa1404/Activeprojects">  Retirement Planning Dashboard </a> Created an interactive dashboard in Excel to simulate retirement savings and projections with macros.
 <br> 
 - <a href="https://github.com/abhinavwadhwa1404/Financial_forecasting_model">  Financial Forecasting Model </a> Forecasted sales, expenses, and financial statements for a company using Excel and scenario analysis.
 
+<h3> Research and Strategy Projects </h3>
+- <a href="https://github.com/abhinavwadhwa1404/Mapthesystem"> Map the System </a> Conducted a systems-level analysis of underemployment among IMGs, applying Iceberg Model, Journey Mapping, and Stakeholder Analysis to propose policy reforms and credential recognition strategies.
 
 
-
-
+<br>
 <br>
 
 <H2> 🧰 Tools & Technologies </H2>
