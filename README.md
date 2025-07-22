@@ -1,12 +1,16 @@
-<h1>Hi, I'm Abhinav! <br> <a href="https://www.linkedin.com/in/abhinavvwadhwa/">Finance Professional</a>
+<h1>Hi, I'm Abhinav! <br> <a href="https://www.linkedin.com/in/abhinavvwadhwa/">Finance Professional</a> </h1>
+
+ I am passionate about data-driven decision-making, financial analytics, and building innovative tools for strategic insights.
 
 <h2>👨‍💻 My Projects:</h2>
 <h3> Excel Projects </h3>
-- <a href="https://github.com/abhinavwadhwa1404/Stock_screening"> Stock Portfolio Scoring & Analysis </a> 
+- <a href="https://github.com/abhinavwadhwa1404/Stock_screening">   Stock Portfolio Scoring & Analysis </a> Built an Excel-based stock screening system for 120+ stocks using regression metrics (R², EPS trends).
 <br> 
-- <a href="https://github.com/abhinavwadhwa1404/Activeprojects"> Retirement Planning Dashboard </a>
+- <a href="https://github.com/abhinavwadhwa1404/Activeprojects">  Retirement Planning Dashboard </a> Created an interactive dashboard in Excel to simulate retirement savings and projections with macros.
 <br> 
-- <a href="https://github.com/abhinavwadhwa1404/Financial_forecasting_model"> Financial Forecasting Model </a>
+- <a href="https://github.com/abhinavwadhwa1404/Financial_forecasting_model">  Financial Forecasting Model </a> Forecasted sales, expenses, and financial statements for a company using Excel and scenario analysis.
+
+
 
 
 
@@ -18,7 +22,9 @@ Excel | Python | SQL | Tableau | Power BI | Google Sheets | Git | Financial Mode
 
 <br>
 
-<h3> My Startup - CUSTOMSUPERKICKS </h3>
+<h2> My Startup - CUSTOMSUPERKICKS </h2>
+A sneaker customization venture that grew its brand presence by 300% in 6 months, with 100+ happy customers.
+
 <a href="https://github.com/abhinavwadhwa1404/customsuperkicks"> Click here to know more </a>
 
 <br>
