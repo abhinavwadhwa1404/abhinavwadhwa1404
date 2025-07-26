@@ -3,6 +3,8 @@
  I am passionate about data-driven decision-making, financial analytics, and building innovative tools for strategic insights.
 
 <h2>👨‍💻 My Projects:</h2>
+<h3> Featured Projects </h3>
+- <a href="https://github.com/abhinavwadhwa1404/Sales_Dashboard_tableau"> Sales Performance Dashboard (TABLEAU) </a>  Built an interactive Tableau dashboard to analyse year-over-year sales, profit, and quantity trends with dynamic KPIs and subcategory comparisons.
 <h3> Excel Projects </h3>
 - <a href="https://github.com/abhinavwadhwa1404/Stock_screening">   Stock Portfolio Scoring & Analysis </a> Built an Excel-based stock screening system for 120+ stocks using regression metrics (R², EPS trends).
 <br>
