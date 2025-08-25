@@ -3,16 +3,24 @@
  I am passionate about data-driven decision-making, financial analytics, and building innovative tools for strategic insights.
 
 <h2>👨‍💻 My Projects:</h2>
-<h3> Featured Projects </h3>
-- <a href="https://github.com/abhinavwadhwa1404/Sales_Dashboard_tableau"> Sales Performance Dashboard (TABLEAU) </a>  Built an interactive Tableau dashboard to analyse year-over-year sales, profit, and quantity trends with dynamic KPIs and subcategory comparisons.
-<h3> Excel Projects </h3>
+
+## Featured Projects
+
+### <a href="https://github.com/abhinavwadhwa1404/Sales_Dashboard_tableau"> Sales Performance Dashboard (TABLEAU) </a>  Built an interactive Tableau dashboard to analyse year-over-year sales, profit, and quantity trends with dynamic KPIs and subcategory comparisons.
+
+
+### <a href="https://github.com/abhinavwadhwa1404/SQL_data_exploration"> SQL Data Exploration Project </a> SQL-based sales data exploration project analyzing customers, products, and transactions to uncover key metrics, trends, and business insights.
+  
+## Excel Projects
+
+
+### <a href="https://github.com/abhinavwadhwa1404/Activeprojects">  Retirement Planning Dashboard </a> Created an interactive dashboard in Excel to simulate retirement savings and projections with macros.
+
+### <a href="https://github.com/abhinavwadhwa1404/Financial_forecasting_model">  Financial Forecasting Model </a> Forecasted sales, expenses, and financial statements for a company using Excel and scenario analysis.
 
 <br>
-- <a href="https://github.com/abhinavwadhwa1404/Activeprojects">  Retirement Planning Dashboard </a> Created an interactive dashboard in Excel to simulate retirement savings and projections with macros.
-<br> 
-- <a href="https://github.com/abhinavwadhwa1404/Financial_forecasting_model">  Financial Forecasting Model </a> Forecasted sales, expenses, and financial statements for a company using Excel and scenario analysis.
 
-<h3> Research and Strategy Projects </h3>
+## Research and Strategy Projects 
 - <a href="https://github.com/abhinavwadhwa1404/Mapthesystem"> Map the System </a> Conducted a systems-level analysis of underemployment among IMGs, applying Iceberg Model, Journey Mapping, and Stakeholder Analysis to propose policy reforms and credential recognition strategies.
 
 
