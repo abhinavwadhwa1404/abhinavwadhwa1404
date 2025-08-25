@@ -10,6 +10,8 @@
 
 
 ### <a href="https://github.com/abhinavwadhwa1404/SQL_data_exploration"> SQL Data Exploration Project </a> SQL-based sales data exploration project analyzing customers, products, and transactions to uncover key metrics, trends, and business insights.
+
+<br>
   
 ## Excel Projects
 
@@ -21,7 +23,8 @@
 <br>
 
 ## Research and Strategy Projects 
-- <a href="https://github.com/abhinavwadhwa1404/Mapthesystem"> Map the System </a> Conducted a systems-level analysis of underemployment among IMGs, applying Iceberg Model, Journey Mapping, and Stakeholder Analysis to propose policy reforms and credential recognition strategies.
+
+### <a href="https://github.com/abhinavwadhwa1404/Mapthesystem"> Map the System </a> Conducted a systems-level analysis of underemployment among IMGs, applying Iceberg Model, Journey Mapping, and Stakeholder Analysis to propose policy reforms and credential recognition strategies.
 
 
 <br>
